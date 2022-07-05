@@ -1,0 +1,6 @@
+﻿{
+    "from": "fromemail@gmail.com",
+    "replyTo": "replyToEmail@gmail.com",
+    "subject": "Test Email",
+    "body": "<p>Dear {{0}},</p><p>Kindly find attached the following Reports:&nbsp;</p><p>{{1}} and {{2}}</p><p>Best Regards,</p>"
+}

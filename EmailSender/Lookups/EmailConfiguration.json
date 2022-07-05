@@ -1,0 +1,8 @@
+﻿{
+    "SmtpServer": "fromemail@gmail.com",
+    "SmtpPort": "465",
+    "Ssl": "Yes",
+    "SmtpUsername": "fromemail@gmail.com",
+    "SmtpPassword": "Admin@123",
+    "EnableEmails": "Y"
+}
